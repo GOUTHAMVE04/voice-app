@@ -1,3 +1,0 @@
-import python
-
-python.function()
